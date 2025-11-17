@@ -1,0 +1,21 @@
+sales_Date,Customer Name,Product,Quantity,Unit Price,Total Amount,Region
+08-01-2025,Diana,Headphones,4,1402.09,5608.36,West
+11-09-2025,Fiona,Tablet,3,620.7,1862.1,East
+13-09-2025,Ian,Printer,1,668.57,668.57,South
+13-05-2025,Ian,Smartphone,2,295.19,590.38,East
+15-10-2025,Ian,Mouse,2,1136.79,2273.58,North
+05-10-2025,Ian,Mouse,1,759.14,759.14,North
+02-04-2025,George,Keyboard,3,512.44,1537.32,North
+27-04-2025,Ian,Smartphone,4,1444.61,5778.44,East
+22-10-2025,Charlie,Keyboard,3,864.46,2593.38,South
+19-01-2025,Fiona,Monitor,1,281.69,281.69,East
+31-08-2025,Julia,Monitor,3,90.33,270.99,West
+15-03-2025,Fiona,Printer,4,1054.67,4218.68,West
+12-02-2025,Alice,Laptop,5,1439.02,7195.1,North
+25-03-2025,George,Mouse,5,98.65,493.25,North
+12-02-2025,Ethan,Printer,3,937.45,2812.35,North
+13-09-2025,Hannah,Mouse,1,65.9,65.9,East
+15-06-2025,Bob,Monitor,5,1232.71,6163.55,East
+07-05-2025,Julia,Printer,4,517.74,2070.96,East
+25-09-2025,Alice,Printer,3,827.14,2481.42,East
+28-10-2025,Alice,Keyboard,3,1004.69,3014.07,East
